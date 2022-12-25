@@ -1,5 +1,5 @@
 # 💫 About Me:
-Complex problem-solver with an analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code. Enthusiastic Mobile Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow and excel in Tech Industry.
+I am a Flutter developer, specializing in creating beautiful and performant cross-platform mobile applications using Google's Flutter framework. With Flutter, I am able to build applications for both Android and iOS using a single codebase, saving time and resources. I have a strong understanding of the Dart programming language and am skilled in implementing advanced features such as integrating with REST APIs, using device features such as the camera and GPS, and implementing responsive and intuitive user interfaces. I am also experienced in working with version control systems such as Git and collaborating with a team of developers. I am always eager to learn and stay up-to-date with the latest technologies and best practices in mobile development.
 
 
 ## 🌐 Socials:
