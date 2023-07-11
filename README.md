@@ -1,10 +1,5 @@
 # 💫 About Me:
-I am a skilled Flutter developer with expertise in building beautiful and high-performance cross-platform mobile applications using Google's Flutter framework. With a deep understanding of the Dart programming language, I am proficient in implementing advanced features such as integrating REST APIs, leveraging device features such as the camera and GPS, and delivering responsive and intuitive user interfaces.
-
-My experience working with Git and collaborating with teams of developers enables me to seamlessly contribute to large-scale projects. I am passionate about staying up-to-date with the latest technologies and best practices in mobile development, ensuring that my work is always at the forefront of industry innovation.
-
-If you are looking for a professional who is dedicated to delivering exceptional mobile experiences with an eye for detail and a commitment to excellence, look no further. I am eager to take on new challenges and collaborate with like-minded professionals to bring your mobile vision to life
-
+Highly skilled Flutter Developer with 3 years of experience and a strong foundation in Computer and Communications Engineering seeking challenging opportunities to leverage my expertise in developing innovative and user-friendly mobile applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adzumrjada/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@adzumrjada) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Abdulaziz-Umar-Jada) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/7685942/adzumr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/adzumrjada) 
