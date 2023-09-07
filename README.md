@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly skilled Flutter Developer with 3 years of experience and a strong foundation in Computer and Communications Engineering seeking challenging opportunities to leverage my expertise in developing innovative and user-friendly mobile applications.
+I am a highly skilled Flutter Developer with 3 years of experience and a strong foundation in Computer and Communications Engineering. I seek challenging opportunities to leverage my expertise in developing innovative and user-friendly mobile applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adzumrjada/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@adzumrjada) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Abdulaziz-Umar-Jada) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/7685942/adzumr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/adzumrjada) 
