@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdulaziz Umar Jada
 
-Passionate and results-driven **Flutter Developer** with 5+ years of experience crafting high-performance, user-centric mobile applications. I specialize in building clean, maintainable, and scalable apps using **Flutter**, with a focus on delivering impactful solutions that improve everyday life. Whether working solo or in cross-functional teams, I bring a strong commitment to code quality, product design, and continuous learning.
+Passionate and results-driven **Flutter Developer** with 5+ years of experience crafting high-performance, user-centric mobile applications. I specialize in building clean, maintainable, and scalable apps using **Flutter & Firebase**, with a focus on delivering impactful solutions that improve everyday life. Whether working solo or in cross-functional teams, I bring a strong commitment to code quality, product design, and continuous learning.
 
 ---
 
@@ -21,6 +21,24 @@ Passionate and results-driven **Flutter Developer** with 5+ years of experience 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [Car Rental App](https://github.com/Adzumr/car-rental-app)
+A full-featured car booking platform built with Flutter and Firebase. Supports hourly, daily, and interstate bookings, integrated with Paystack, NIN verification, and in-app customer support.
+
+### 🔹 [Addiction Recovery Assistant](https://github.com/Adzumr/addiction-recovery-assistant)
+AI-powered recovery support system using Gemini API + Firebase. Helps users identify addiction types and provides tailored steps and resources.
+
+### 🔹 [Drugs Registration & Verification System](https://github.com/Adzumr/drug-verification-system)
+Flutter + Firebase system for verifying and tracking registered drugs. Includes offline search using SQFlite and expiry validation.
+
+### 🔹 [Online Vehicle Plate Management System](https://github.com/Adzumr/vehicle-plate-management)
+Mobile solution for managing and verifying vehicle number plates with full CRUD support and advanced search.
+
+> _Visit my GitHub repositories for more projects and contributions!_
 
 ---
 
