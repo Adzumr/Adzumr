@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdulaziz Umar Jada
 
-Passionate and results-driven **Flutter Developer** with 5+ years of experience crafting high-performance, user-centric mobile applications. I specialize in building clean, maintainable, and scalable apps using **Flutter & Firebase**, with a focus on delivering impactful solutions that improve everyday life. Whether working solo or in cross-functional teams, I bring a strong commitment to code quality, product design, and continuous learning.
+Passionate and results-driven **Flutter Developer** with 5+ years of experience crafting high-performance, user-centric mobile applications. I specialize in building clean, maintainable, and scalable apps using **Flutter**, with a focus on delivering impactful solutions that improve everyday life. Whether working solo or in cross-functional teams, I bring a strong commitment to code quality, product design, and continuous learning.
 
 ---
 
