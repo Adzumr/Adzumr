@@ -1,186 +1,288 @@
-# 👋 Hi, I'm Adzumr
+# Hi, I'm Adzumr
 
-### Software Engineer · Flutter · Firebase · Backend Systems
+## Software Architect · Senior Software Engineer · Product Engineer
 
-I build **production-ready mobile applications and business platforms** — from product architecture and UI implementation to backend systems, APIs, authentication, payments, offline-first workflows, and deployment.
+I design and build **production-grade software systems that solve real business problems**.
 
-With **6+ years of software development experience** and **5+ years working with Flutter**, I focus on turning business requirements into reliable, maintainable software that can scale beyond the MVP.
+With **6+ years of software engineering experience**, I work across the full product lifecycle — from understanding business requirements and designing system architecture to implementation, integration, deployment, optimization, and long-term maintenance.
 
-I'm particularly interested in building products across **FinTech, commerce, SaaS, marketplaces, and business management systems**.
+My work spans **business platforms, FinTech, commerce, SaaS, mobile and desktop applications, backend systems, and immersive AR/VR experiences**.
 
----
-
-## What I Build
-
-* 📱 **Cross-platform mobile applications** — Android, iOS, Windows & macOS
-* 🏗️ **Scalable application architecture** — Feature-first & Clean Architecture
-* ☁️ **Cloud backends** — Firebase & Google Cloud
-* 🔌 **API-driven systems** — REST APIs and backend integrations
-* 💳 **FinTech & transaction platforms**
-* 🛒 **E-commerce & marketplace platforms**
-* 📦 **Inventory, POS & business management systems**
-* 🔄 **Offline-first applications & data synchronization**
-* 🔐 **Authentication, authorization & role-based access control**
-* 📊 **Business dashboards & operational tools**
-* 🚀 **CI/CD, testing, monitoring & production deployment**
+I care less about using a particular technology and more about choosing the **right engineering approach for the problem**.
 
 ---
 
-## 🧰 Core Technology
+## What I Do
 
-### Mobile & Frontend
+### Software Architecture
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)
+Designing systems that are:
 
-### Backend & Cloud
+* Scalable
+* Maintainable
+* Secure
+* Performant
+* Observable
+* Resilient
+* Designed for long-term evolution
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+### Senior Software Engineering
 
-### Data & Development
+I work across the entire engineering lifecycle:
 
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+**Requirements → System Design → Architecture → Development → Integration → Testing → Deployment → Monitoring → Optimization**
+
+### Product Engineering
+
+I help transform business ideas into working products by connecting:
+
+**Business Requirements + Product Design + Engineering + Infrastructure**
+
+### AR / VR & Spatial Computing
+
+Experience building applications involving:
+
+* Augmented Reality
+* Virtual Reality
+* 3D environments
+* Spatial interaction
+* Room scanning
+* Scene understanding
+* Mesh reconstruction
+* Camera and sensor-based experiences
 
 ---
 
-## 🏗️ Engineering Focus
+# Areas I Work In
 
-I care about more than making an application "work."
-
-My focus is on building systems that are:
-
-**Reliable** → predictable behavior and robust error handling
-**Scalable** → architecture that can evolve with the product
-**Maintainable** → clear separation of concerns and readable code
-**Performant** → optimized network, database and UI operations
-**Secure** → proper authorization, validation and API boundaries
-**Production-ready** → monitoring, testing, deployment and observability
+* **Software Architecture & System Design**
+* **Enterprise & Business Applications**
+* **FinTech & Transaction Systems**
+* **E-commerce & Marketplace Platforms**
+* **SaaS Products**
+* **Business Management Systems**
+* **Inventory & POS Systems**
+* **API & Backend Architecture**
+* **Offline-First Applications**
+* **Real-Time Systems**
+* **Role-Based Access & Authorization**
+* **Cloud & Distributed Systems**
+* **AR / VR & Spatial Computing**
+* **Cross-Platform Product Development**
+* **Performance & Reliability Engineering**
 
 ---
 
-# 🚀 Selected Projects
+# Selected Work
 
-## 🛍️ Kasuwa 360
+## Kasuwa 360
 
-**Marketplace & Business Management Platform**
+### Marketplace & Business Operations Platform
 
-A commerce ecosystem designed around the way local businesses operate — combining marketplace capabilities with tools for **catalog management, inventory, sales, POS workflows and debt management**.
+A commerce ecosystem designed around the operational needs of local businesses.
 
-### Highlights
+The platform goes beyond a traditional marketplace by providing businesses with tools for:
 
-* Cross-platform Flutter applications
-* Marketplace architecture
-* Inventory & product management
+* Product & catalog management
+* Inventory management
 * Sales & POS workflows
 * Debt management
-* Offline-first workflows
-* Firebase & Google Cloud backend
-* Role-based access control
-* API integrations
-* Mobile & desktop support
+* Business operations
+* Customer management
+* Offline workflows
+* Multi-platform access
 
-📱 [Android](https://play.google.com/store/apps/details?id=com.kasuwa360.ng) · 🍎 [iOS](https://apps.apple.com/ng/app/kasuwa-360/id6741732659)
+The project involves designing and evolving both **product architecture and business workflows**, with a focus on reliability, scalability and real-world operational constraints.
 
----
-
-## 💳 Abba Pantami Data
-
-**Digital Services & VTU Platform**
-
-A production application for purchasing **airtime and mobile data across Nigerian networks**, with backend integrations for transaction processing.
-
-📱 [Android](https://play.google.com/store/apps/details?id=ng.com.abbapantamidata.app&hl=en) · 🍎 [iOS](https://apps.apple.com/ng/app/abba-pantami-data-ltd/id6744061271)
+[Android](https://play.google.com/store/apps/details?id=com.kasuwa360.ng) · [iOS](https://apps.apple.com/ng/app/kasuwa-360/id6741732659)
 
 ---
 
-## 📡 Ayamaz Data
+## Abba Pantami Data
 
-**Airtime & Data Platform**
+### Digital Services & Transaction Platform
 
-A digital services platform built for both **end users and resellers**, providing fast access to airtime and data services.
+A production platform for digital services and telecommunications transactions.
 
-📱 [Android](https://play.google.com/store/apps/details?id=ng.com.triplestack.ayamaz&hl=en) · 🍎 [iOS](https://apps.apple.com/ng/app/ayamaz-cheap-data-airtime/id6743946205)
+The system integrates with external service providers and payment infrastructure to support transaction-driven workflows.
+
+[Android](https://play.google.com/store/apps/details?id=ng.com.abbapantamidata.app&hl=en) · [iOS](https://apps.apple.com/ng/app/abba-pantami-data-ltd/id6744061271)
 
 ---
 
-## ⚽ Barwa FC
+## Barwa FC
 
-**Sports & Fan Engagement Platform**
+### Sports & Fan Engagement Platform
 
-A mobile application for Barwa FC providing supporters with access to:
+A digital platform designed to connect a football club with its supporters.
+
+The application provides access to:
 
 * Match schedules
 * Results
-* Team updates
-* Club information
-* Fan-focused experiences
+* Team information
+* Club updates
+* Fan experiences
 
-📱 [Android](https://play.google.com/store/apps/details?id=fc.barwa.app) · 🍎 [iOS](https://apps.apple.com/ng/app/barwa-fc/id6743491209)
+[Android](https://play.google.com/store/apps/details?id=fc.barwa.app) · [iOS](https://apps.apple.com/ng/app/barwa-fc/id6743491209)
 
 ---
 
-# 🧠 How I Approach Software
+# AR / VR & Spatial Computing
+
+I also work on software that bridges the gap between **traditional applications and spatial computing**.
+
+My experience includes projects involving:
+
+* AR-based visualization
+* Room scanning
+* 3D scene reconstruction
+* Spatial mapping
+* Mesh generation
+* Camera and sensor processing
+* Immersive user experiences
+
+This includes working across application-level engineering and platform-specific capabilities where required.
+
+---
+
+# Engineering Principles
+
+### Technology should serve the problem.
+
+I don't approach engineering with a predetermined technology stack.
+
+Instead, I consider:
+
+**Business requirements**
+
+↓
+
+**System constraints**
+
+↓
+
+**Architecture & trade-offs**
+
+↓
+
+**Technology selection**
+
+↓
+
+**Implementation**
+
+↓
+
+**Operational requirements**
+
+This allows the solution to evolve as the business grows rather than forcing the business to fit the technology.
+
+---
+
+# Problems I Enjoy Solving
+
+Some of the engineering problems I particularly enjoy working on:
 
 ```text
-Business Requirements
-        ↓
-Product & System Design
-        ↓
-Architecture
-        ↓
-Implementation
-        ↓
-Testing & Validation
-        ↓
-Performance & Security
-        ↓
-Deployment
-        ↓
-Monitoring & Continuous Improvement
+Complex Business Requirements
+            ↓
+      System Modeling
+            ↓
+   Architecture Decisions
+            ↓
+   Distributed Components
+            ↓
+ Data & Integration Boundaries
+            ↓
+ Performance & Reliability
+            ↓
+ Production Operations
 ```
 
-I enjoy working on the difficult parts of software engineering:
+Especially when the system needs to handle:
 
-**Architecture decisions · Data modeling · Offline synchronization · API design · State management · Performance optimization · Security · Debugging · Production reliability**
-
----
-
-# 📈 Currently Exploring
-
-* Scalable Firebase & Google Cloud architectures
-* API-first backend systems
-* FinTech infrastructure
-* Offline-first application architecture
-* Distributed data synchronization
-* Production observability & monitoring
-* High-performance Flutter applications
-* Business automation platforms
+* Complex business rules
+* Large or growing datasets
+* Multiple user roles
+* External integrations
+* Financial transactions
+* Offline operation
+* Multiple platforms
+* Real-time communication
+* Security-sensitive operations
+* Legacy system constraints
 
 ---
 
-# 🤝 Let's Build Something
+# Architecture Mindset
 
-I'm interested in working with **startups, companies, founders and engineering teams** building products where software is a core part of the business.
+I believe good architecture isn't about creating the most sophisticated system.
 
-Whether you need:
+It's about creating the **simplest system that can reliably solve today's problem while providing a sensible path for tomorrow's requirements.**
 
-**A product built from scratch**
-**An existing application modernized**
-**A Flutter application taken to production**
-**A Firebase backend reviewed or redesigned**
-**A legacy system migrated to a scalable architecture**
+I evaluate architecture through:
 
-I'd be happy to talk.
+**Scalability · Reliability · Security · Performance · Maintainability · Cost · Developer Experience · Business Requirements**
 
-### 🌐 Connect
+---
+
+# Working With Businesses
+
+I am interested in working with:
+
+* Technology companies
+* Startups
+* Scale-ups
+* Product teams
+* Engineering teams
+* Founders
+* Enterprises
+* Agencies handling complex software projects
+
+Particularly where the challenge goes beyond simply implementing screens and requires **engineering judgment, architecture and ownership**.
+
+---
+
+# What I Can Bring to a Project
+
+### Architecture
+
+Turn complex requirements into practical system designs.
+
+### Engineering
+
+Build production-ready software with a focus on quality and maintainability.
+
+### Integration
+
+Connect systems, APIs, third-party services and infrastructure into cohesive products.
+
+### Performance
+
+Identify and eliminate architectural and implementation bottlenecks.
+
+### Security
+
+Design appropriate authentication, authorization and system boundaries.
+
+### Modernization
+
+Assess existing systems and create realistic paths toward better architecture.
+
+### Delivery
+
+Take products from an idea or existing codebase through to production.
+
+---
+
+# Let's Build
+
+I'm open to working with ambitious teams and organizations solving meaningful problems with software.
+
+If you're building a product, modernizing an existing system, or dealing with an engineering challenge that requires **architecture, technical leadership and hands-on implementation**, let's connect.
+
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/adzumrjada/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Adzumr)
@@ -189,8 +291,6 @@ I'd be happy to talk.
 
 ---
 
-### 💡 Engineering Philosophy
-
-> **Build software that solves the business problem — not just the technical problem.**
+> **I don't just build software. I design systems that make businesses work.**
 
 ---
